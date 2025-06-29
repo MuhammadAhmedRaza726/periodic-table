@@ -1,0 +1,68 @@
+body{
+    background-color: burlywood;
+}
+table{
+    background-color: rgb(254, 254, 130);
+    margin: 100px;
+}
+td:hover{
+    border-bottom: 8px dotted purple
+    
+}
+.blank{
+    border: none;
+    text-align: center;
+}
+
+
+
+td{
+    max-height: 55px;
+    height: 50px;
+    width: 50px;
+    border: 3px solid navajowhite;
+}
+p{text-align: center;
+}
+.dark{
+    background-color: aquamarine;
+}
+
+.navy{
+    background-color: rgb(76, 76, 227);
+}
+.purple{
+    background-color: rgb(234, 105, 234);
+}
+.yellow{
+    background-color: rgb(255, 255, 0);
+}
+.aqua{
+    background-color: aqua;
+}
+.green{
+    background-color: greenyellow;
+}
+
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: rgb(224, 65, 65);
+}
+.blue{
+    background-color: rgb(48, 48, 145);
+}
+.pdark{
+    background-color: rgb(129, 55, 129);
+}
+.grey{
+    background-color: grey;
+}
+.heading{
+    
+    text-align: center;
+    text-decoration: double;
+    font-size: 50px;
+    text-transform: uppercase;
+}
